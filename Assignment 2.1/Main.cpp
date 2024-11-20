@@ -2,6 +2,8 @@
 
 #include "Main.h"
 
+// Function to calculate pointers and recursive by understanding how pointers and recursive logic work together.
+
 
 static void recursiveBackwardsCounting( int startingpoint )
 {
@@ -22,7 +24,7 @@ void functionE(int* value)
 
 int main(int arg, char* argv[])
 {
-	//recursiveBackwardsCounting(5);
+	//recursiveBackwardsCounting delivered integers;
 
 	int a = 0; //0xA678
 	
@@ -36,8 +38,9 @@ std::cout<< &a << std::endl;
 
 std::cout << a << std::endl; // 1
 
-//call the run application function
-//return RunApplication(argc, argv);
+
+//return RunApplication to deliver functions/ integers based on referencing eachother. 
+
 
 //0
 //0x678
